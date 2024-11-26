@@ -1,0 +1,59 @@
+reserve.md
+HELP.md
+.gradle
+.tmp
+google-services.json
+build/
+app/release/
+allure-report/
+allure-results/
+caches/
+daemon/
+native/
+node_modules/
+package-lock.json
+package.json
+wrapper/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+### Android Studio ###
+captures/
+.externalNativeBuild
+.cxx
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Package Files ###
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### Gradle ###
+!gradle/wrapper/gradle-wrapper.jar
